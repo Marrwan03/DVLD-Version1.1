@@ -152,6 +152,14 @@
 
 ###
 
+<h3 align="left">I used c# to implement the system and sql server.</h3>
+
+###
+
+<h2 align="left">🧱Challenges and how to overcome them:</h2>
+
+###
+
 <h3 align="left">I faced several challenges such as applying all licensing operations to the international license, such as renewing it, replacing a lost one, etc., and also in terms of finding the best way to send a message via email because the Outlook function did not work for me. As for the other matters, I did not find them difficult, they only took time and required pouring.</h3>
 
 ###
